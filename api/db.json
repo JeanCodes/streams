@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Awesome",
+      "id": 1
+    },
+    {
+      "title": "Unexpected",
+      "description": "adsfd",
+      "id": 7
+    },
+    {
+      "title": "Lets try this",
+      "description": "dfewqfqeafweq",
+      "id": 8
+    },
+    {
+      "title": "Component Reuse",
+      "description": "test",
+      "id": 9
+    }
+  ]
+}
